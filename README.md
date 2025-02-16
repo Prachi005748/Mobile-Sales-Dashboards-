@@ -2,11 +2,11 @@
 An interactive Mobile Sales Dashboard providing deep insights into sales trends, payment methods, customer ratings, and city-wise distribution using dynamic visualizations. 🚀
 📊 Mobile Sales Dashboard
 
-🚀 Overview
+#🚀 Overview
 
 The Mobile Sales Dashboard is an interactive data visualization tool designed to provide deep insights into mobile sales performance. It helps businesses track total sales, transaction trends, payment methods, customer ratings, and city-wise distribution with dynamic visualizations.
 
-🔥 Features
+#🔥 Features
 
 ✅ Total Sales Overview – Track total revenue, number of transactions, and quantity sold.
 ✅ Sales Trends – Monitor daily, monthly, and yearly sales performance.
@@ -15,15 +15,18 @@ The Mobile Sales Dashboard is an interactive data visualization tool designed to
 ✅ Customer Ratings Analysis – Understand product performance through customer feedback.
 ✅ Comparison Reports – Year-over-year and quarterly comparisons for better decision-making.
 
-📂 Files Included
+#📂 Files Included
 
 Dashboard Screenshots:
 
-Screenshot_1.png – Monthly to date report.
+ ![Screenshot 2025-02-16 163456](https://github.com/user-attachments/assets/df952737-cf7c-42b2-b306-fb2bf05f1968)
+– Monthly to date report.
 
-Screenshot_2.png – Same period last year.
+![Screenshot 2025-02-16 163506 2](https://github.com/user-attachments/assets/086b216d-b34f-4a20-a4af-c62f8b122da8)
+ – Same period last year.
 
-Screenshot_3.png – Full overview of the dashboard.
+ ![Screenshot 2025-02-16 163444 - Copy](https://github.com/user-attachments/assets/a5c218b8-f760-46ab-9c7e-7b439c550967)
+– Full overview of the dashboard.
 
 
 
